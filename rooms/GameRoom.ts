@@ -270,8 +270,9 @@ this.onMessage("SetMyCurrentWinProbability",(client,winprobability)=>{
   }
 
   async onAuth (client, options) {
-    console.log("onAuth(), options!", options);
-    return await User.findById(verifyToken(options.token)._id);
+  //  console.log("onAuth(), options!", options);
+   // return await User.findById(verifyToken(options.token)._id);
+ return true;
   }
 
 
