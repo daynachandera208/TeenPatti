@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf0f0a0d8ad9d41b2ab19c0caafd59ed, type: 3}
+  m_Name: allCards
+  m_EditorClassIdentifier: 
+  cardDeck:
+  - cardType: 1
+    cardValue: 1
+    cardPoints: 11
+  - cardType: 1
+    cardValue: 2
+    cardPoints: 2
+  - cardType: 1
+    cardValue: 3
+    cardPoints: 3
+  - cardType: 1
+    cardValue: 4
+    cardPoints: 4
+  - cardType: 1
+    cardValue: 5
+    cardPoints: 5
+  - cardType: 1
+    cardValue: 6
+    cardPoints: 6
+  - cardType: 1
+    cardValue: 7
+    cardPoints: 7
+  - cardType: 1
+    cardValue: 8
+    cardPoints: 8
+  - cardType: 1
+    cardValue: 9
+    cardPoints: 9
+  - cardType: 1
+    cardValue: 10
+    cardPoints: 10
+  - cardType: 1
+    cardValue: 11
+    cardPoints: 10
+  - cardType: 1
+    cardValue: 12
+    cardPoints: 10
+  - cardType: 1
+    cardValue: 13
+    cardPoints: 10
+  - cardType: 2
+    cardValue: 1
+    cardPoints: 11
+  - cardType: 2
+    cardValue: 2
+    cardPoints: 2
+  - cardType: 2
+    cardValue: 3
+    cardPoints: 3
+  - cardType: 2
+    cardValue: 4
+    cardPoints: 4
+  - cardType: 2
+    cardValue: 5
+    cardPoints: 5
+  - cardType: 2
+    cardValue: 6
+    cardPoints: 6
+  - cardType: 2
+    cardValue: 7
+    cardPoints: 7
+  - cardType: 2
+    cardValue: 8
+    cardPoints: 8
+  - cardType: 2
+    cardValue: 9
+    cardPoints: 9
+  - cardType: 2
+    cardValue: 10
+    cardPoints: 10
+  - cardType: 2
+    cardValue: 11
+    cardPoints: 10
+  - cardType: 2
+    cardValue: 12
+    cardPoints: 10
+  - cardType: 2
+    cardValue: 13
+    cardPoints: 10
+  - cardType: 3
+    cardValue: 1
+    cardPoints: 11
+  - cardType: 3
+    cardValue: 2
+    cardPoints: 2
+  - cardType: 3
+    cardValue: 3
+    cardPoints: 3
+  - cardType: 3
+    cardValue: 4
+    cardPoints: 4
+  - cardType: 3
+    cardValue: 5
+    cardPoints: 5
+  - cardType: 3
+    cardValue: 6
+    cardPoints: 6
+  - cardType: 3
+    cardValue: 7
+    cardPoints: 7
+  - cardType: 3
+    cardValue: 8
+    cardPoints: 8
+  - cardType: 3
+    cardValue: 9
+    cardPoints: 9
+  - cardType: 3
+    cardValue: 10
+    cardPoints: 10
+  - cardType: 3
+    cardValue: 11
+    cardPoints: 10
+  - cardType: 3
+    cardValue: 12
+    cardPoints: 10
+  - cardType: 3
+    cardValue: 13
+    cardPoints: 10
+  - cardType: 4
+    cardValue: 1
+    cardPoints: 11
+  - cardType: 4
+    cardValue: 2
+    cardPoints: 2
+  - cardType: 4
+    cardValue: 3
+    cardPoints: 3
+  - cardType: 4
+    cardValue: 4
+    cardPoints: 4
+  - cardType: 4
+    cardValue: 5
+    cardPoints: 5
+  - cardType: 4
+    cardValue: 6
+    cardPoints: 6
+  - cardType: 4
+    cardValue: 7
+    cardPoints: 7
+  - cardType: 4
+    cardValue: 8
+    cardPoints: 8
+  - cardType: 4
+    cardValue: 9
+    cardPoints: 9
+  - cardType: 4
+    cardValue: 10
+    cardPoints: 10
+  - cardType: 4
+    cardValue: 11
+    cardPoints: 10
+  - cardType: 4
+    cardValue: 12
+    cardPoints: 10
+  - cardType: 4
+    cardValue: 13
+    cardPoints: 10
